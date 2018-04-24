@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/Admin/Admin_QuestionController.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/FormController.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/mostra_answers.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/cadastra_check.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/cadastra_option.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/cadastra_question.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Options.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/questions.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/AnswersController.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Answers.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/Admin/Admin_FormController.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/composer.json</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/admin/cadastra_form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Form.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/resources/views/questions.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/Admin/Admin_CheckController.php</file>
+            <file>file:/C:/xampp/htdocs/myapp/public/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/myapp/app/Http/Controllers/Admin/Admin_OptionController.php</file>
+        </group>
+    </open-files>
+</project-private>

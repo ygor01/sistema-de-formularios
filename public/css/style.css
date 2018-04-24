@@ -1,0 +1,214 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/03/2018, 14:42:05
+    Author     : ygor.freires
+*/
+
+
+
+    html, body {
+
+    }
+
+    .full-height {
+        height: 100vh;
+    }            
+
+    .flex-center {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .position-ref {
+        position: relative;
+    }
+
+    .top-right {
+        position: absolute;
+        right: 10px;
+        top: 18px;
+    }
+
+    .content {
+        text-align: center;
+    }
+
+    .title {
+        font-size: 50px;
+    }
+
+    .links > a {
+        color: #636b6f;
+        padding: 0 25px;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: .1rem;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    .m-b-md {
+        margin-bottom: 30px;
+        margin-top: 5%;
+    }
+
+    .btn-submit, .btn-form-criar{
+        margin-top: 20px;
+        color: black;
+        padding: 8px;
+        border-radius: 4px;
+        border: none;
+        width: 100%;
+        transition: 0.3s;
+    }
+    .btn-submit{
+        background: #85b985;
+        color: white;
+    }
+    .btn-form-criar{
+        background: #d0d0d0;
+
+    }
+    .btn-form-criar:hover{
+        background: #989898;
+        color: white;
+    }
+    .btn-submit:hover{
+        background: #69a969;
+        color: white;
+    }
+
+    .div-btn-form{
+        margin-top: 0px;
+    }
+    .form-input{
+        margin-top: 20px;
+    }
+    .btn-submit-answers{
+        background: #64a264;
+        color: white;
+        margin-top: 19px;
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid;
+        width: 100%;
+        transition: 0.2s;
+
+    }
+    .btn-submit-answers:hover{
+        color: white;
+        background: #7ece7e;
+        border-style: double;
+    }
+    .btn-submit-pdf{
+        background: #b93f3f;
+        color: white;
+        margin-top: 19px;
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid;
+        width: 100%;
+        transition: 0.2s;
+    }
+    .btn-submit-pdf:hover{        
+        color: white;
+        background: #d65555;
+        border-style: double;
+    }
+    .box_questions{                
+        /*padding: 10px;*/
+    }
+    .div_padding_questions{
+        padding: 15px;
+    }
+    .div_option{
+        padding-left: 30px;
+    }
+    .container_background{
+        background: white;
+        padding: 40px 0px 0px 0px;
+    }
+    .container_info_box{
+        background: #64a264;
+    }
+    .info_box{
+        font-family: sans-serif;
+        padding: 10px;
+        margin-top: 50px;
+    }
+    .info_box2{
+        background: #64a264;;
+    }
+    .title-info-count{
+        font-family: 'Dosis', sans-serif;
+        font-size: 20pt;
+        margin: 20px;
+        color: #b7a0a0;
+    }
+    
+    .icon-add-question, .icon-add-pdf{
+        vertical-align: -6px;
+    }
+    .input-question{
+        margin-left: 10px;
+    }
+    .div-btn-submit-option{
+        float: right;
+    }
+    .input-check-margin-{
+        margin-right: 5px;
+    }
+    .div-btn-submit-option-cursor{
+        cursor: pointer;
+    }
+    .thead-list{
+        background: #69a969;
+        color: white;
+    }
+    
+    .btn-form-novo-formulario, .btn-form-preencher-novo{
+        margin: 15px 0px;
+    }
+
+    .div_list_status{
+        border-radius: 5px;
+        width: 80px;
+        padding: 5px 0px;
+        margin: 0 auto;
+        font-size: 10pt;
+    }
+
+    .div_list_status_on{
+        background: #69a969;
+        color: white;
+    }
+
+    .div_list_status_off{
+        background: #b84141;
+        color: white;
+    }
+
+    .bg-navbar{
+        background: #69a969!important;
+    }
+    .navbar-brand{
+        color: white;
+    }
+    #navbarDropdown{
+        color:white!important;
+    }
+
+    .dropdown-item{
+        color: black!important;
+        
+    }
+    .dropdown-item:hover{
+        color: white!important;
+        background: #69a969!important;
+    }
+
