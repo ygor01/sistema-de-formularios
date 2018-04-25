@@ -31,6 +31,6 @@ class FormSeeder extends Seeder
                 'status' => '1',
                 'description' => 'Descrição formulario 2']
             ];
-        DB::table('form')->insert($form);
+        DB::table('forms')->insert($form);
     }
 }

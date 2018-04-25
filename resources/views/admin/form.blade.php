@@ -47,7 +47,7 @@
                     <select name="form_select_user" class="form-control">   
                         <option value="0">Visualizar e editar Formulário</option>
                         @foreach ($user as $users)                         
-                            <option value="{{$users->id}}" title="">Responder como {{$users->nome}}</option>
+                            <option value="{{$users->id}}" title="">Responder como {{$users->name}}</option>
                         @endforeach
                     </select>
                     <div class="row div-btn-form">

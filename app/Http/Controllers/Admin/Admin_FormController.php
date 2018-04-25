@@ -20,6 +20,7 @@ class Admin_FormController extends Controller
         $form = Form::orderBy('id', 'DESC')->get();    
         //$form_id = DB::table('form')->where('title', 'Formulario 2')->pluck('id');
         $user = User::get();
+        
         return view('admin/form', compact('form', 'user'));
         //return view('questions', compact('form', 'question') );
     }
